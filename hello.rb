@@ -1,1 +1,1 @@
-print _"Hello world"_
+print _"Bonjour Monde"_
